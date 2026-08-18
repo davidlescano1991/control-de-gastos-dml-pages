@@ -5,6 +5,14 @@
         2024,
         2023
     ],
+    "coloresEntidades": {
+        "visa": "#768699",
+        "mastercard": "#768699",
+        "naranja": "#ff8104",
+        "bancor": "#005f5a",
+        "otros": "#c10090",
+        "ml": "#ffe600"
+    },
     "rangosEntidadesPorAnio": {
         "2026": {
             "visa": {
